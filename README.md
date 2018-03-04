@@ -46,3 +46,7 @@ You can name any of the UCSC Colleges for this first utterance.
 ## About
 
 Created by Kelvin Silva, and Daniel Hunter for the UC Santa Cruz ACM Hackathon, on February 3, 2018
+
+https://hackacm-2018.devpost.com/
+
+https://devpost.com/software/hackathon-wnkjqt#updates
